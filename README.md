@@ -6,10 +6,10 @@
 
 Для детального изучения системы, перейдите к соответствующим разделам документации:
 
-1. [Введение](#введение)
-2. [Описание алгоритмов](#описание-алгоритмов)
-3. [Руководство по установке и настройке](#руководство-по-установке-и-настройке)
-4. [Руководство пользователя](#руководство-пользователя)
-5. [Технические детали](#технические-детали)
-6. [Примеры и случаи использования](#примеры-и-случаи-использования)
-7. [Приложения](#приложения)
+1. [Введение](https://docs.google.com/document/d/1NWG0Y1_dtfpGP6-BkCOatAoTX8qd269wHn2VQTVj8yE/edit#heading=h.1fob9te)
+2. [Описание алгоритмов](https://docs.google.com/document/d/1NWG0Y1_dtfpGP6-BkCOatAoTX8qd269wHn2VQTVj8yE/edit#heading=h.3znysh7)
+3. [Руководство по установке и настройке](https://docs.google.com/document/d/1NWG0Y1_dtfpGP6-BkCOatAoTX8qd269wHn2VQTVj8yE/edit#heading=h.26in1rg)
+4. [Руководство пользователя](https://docs.google.com/document/d/1NWG0Y1_dtfpGP6-BkCOatAoTX8qd269wHn2VQTVj8yE/edit#heading=h.2jxsxqh)
+5. [Технические детали](https://docs.google.com/document/d/1NWG0Y1_dtfpGP6-BkCOatAoTX8qd269wHn2VQTVj8yE/edit#heading=h.4i7ojhp)
+6. [Примеры и случаи использования](https://docs.google.com/document/d/1NWG0Y1_dtfpGP6-BkCOatAoTX8qd269wHn2VQTVj8yE/edit#heading=h.qsh70q)
+7. [Приложения](https://docs.google.com/document/d/1NWG0Y1_dtfpGP6-BkCOatAoTX8qd269wHn2VQTVj8yE/edit#heading=h.49x2ik5)
